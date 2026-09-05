@@ -1,9 +1,6 @@
 # token_huevobit
 🥚 ¡El Token Huevobit ya está disponible! ✨ 
 
-
- 🥚 ¡HUEVOBIT ya tiene su propio Token! 🥚
-
 Huevobit: juega, gana y disfruta del ecosistema. 🎮💰
 
 Contrato verificado para auditoría ✅: 0xfC17370Be6B92Dc366DEB22b479DA611605D15DF
