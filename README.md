@@ -7,6 +7,8 @@ Contrato verificado para auditoría ✅: 0xfC17370Be6B92Dc366DEB22b479DA611605D1
 
 Ya contamos con nuestro Token HUEVOBIT, creado para formar parte de la economía del juego y permitir que los jugadores puedan utilizarlo, recibir recompensas, participar en airdrops y, próximamente, intercambiarlo por BNB.
 
+Descubre en: https://huevobit.com/token-huevobit/
+
 🎁 Los primeros jugadores también podrán recibir HUEVOBIT como recompensa.
 
 🔥 Próximamente anunciaremos la preventa oficial, donde podrás adquirir HUEVOBIT directamente con BNB.
